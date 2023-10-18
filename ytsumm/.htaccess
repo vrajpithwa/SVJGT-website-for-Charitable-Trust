@@ -1,0 +1,10 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/o9fteldqpto7/youtubetextsumm"
+PassengerBaseURI "/ytsumm"
+PassengerPython "/home/o9fteldqpto7/virtualenv/youtubetextsumm/3.9/bin/python"
+PassengerAppLogFile "/home/o9fteldqpto7/logs/passengers.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
+# DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION BEGIN
+<IfModule Litespeed>
+</IfModule>
+# DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION END

@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>HTML Form</title>>
+    <meta charset="utf-8">
+</head>
+<body>
+<form action="img.php" method="post">
+	
+		<h3>Donate</h3>
+		<div class="row gy-3">
+			<!-- Amount Input -->
+			<div class="col-md-6">
+				<label for="amount" class="form-label">Amount<span style="color: red">*</span></label>
+				<input type="text" class="form-control" id="amount" name="field8" >
+			</div>
+			<!-- Dropdown -->
+			<div class="col-md-6">
+				<label for="donationType" class="form-label">Donation Type<span style="color: red">*</span></label>
+				<select class="form-select" id="donationType" name="field9" >
+					<option value="General Donation">General Donation</option>
+					<option value="Ghass Charo bhandol">Ghass Charo bhandol</option>
+					<option value="Annshetra bhandol">Annshetra bhandol</option>
+					<option value="Bandkaam bhandol">Bandkaam bhandol</option>
+					<option value="Khatar Upaj">Khatar Upaj</option>
+					<option value="Mahiti Prakashan">Mahiti Prakashan</option>
+					<option value="Chakla Chann">Chakla Chann</option>
+				</select>
+			</div>
+			<!-- First Name Input -->
+			<div class="col-md-6">
+				<label for="fname" class="form-label">Name<span style="color: red">*</span></label>
+				<input type="text" class="form-control" id="fname" name="field1" >
+			</div>
+			<!-- Last Name Input -->
+			<div class="col-md-6">
+				<label for="lname" class="form-label">Mobile no.</label><span style="color: red">*</span></label>
+				<input type="text" class="form-control" id="lname" name="field12" >
+			</div>
+			<!-- Address Input -->
+			<div class="col-12">
+				<label for="inputAddress" class="form-label">Address<span style="color: red">*</span></label>
+				<textarea type="text" class="form-control" id="inputAddress" name="field3" ></textarea>
+			</div>
+			<!-- City Input -->
+			<div class="col-md-6">
+				<label for="inputCity" class="form-label">City<span style="color: red">*</span></label>
+				<input type="text" class="form-control" id="inputCity" name="field4" >
+			</div>
+			<!-- State Input -->
+			<div class="col-md-4">
+				<label for="state" class="form-label">State<span style="color: red">*</span></label>
+				<input type="text" class="form-control" id="state" name="field5" >
+			</div>
+			<!-- Zip Input -->
+			<div class="col-md-4">
+				<label for="inputZip" class="form-label">Pincode<span style="color: red">*</span></label>
+				<input type="text" class="form-control" id="inputZip" name="field6" >
+			</div>
+			<div class="col-md-6">
+				<label for="inputMessage" class="form-label">Aadhar card/Pan card<span style="color: red">*</span></label>
+				<input type="text" class="form-control" aria-label="file example" name="field7" placeholder="Enter your Aadhar_no/Pan_no" >
+			</div>
+			<!-- Aadhar/Pan Card Input -->
+			<div class="mb-3">
+				
+				<br>Attach Aadhar/Pan card</br>
+				<input type="file" class="form-control" aria-label="file example" name="image" >
+				<div class="invalid-feedback">Example invalid form file feedback</div>
+			</div>
+			<!-- Agree to Terms and Conditions -->
+			<div class="col-12">
+				<div class="form-check">
+					<input class="form-check-input" type="checkbox" id="gridCheck" onchange="enableSubmit()" >
+					<label class="form-check-label" for="gridCheck">
+						<a href="termsandconditions.html" style="color: blue">Agree to Terms and Conditions<span style="color: red">*</span></a>
+					</label>
+				</div>
+			</div>
+			<!-- Submit Button -->
+			<div class="col-12">
+				<button type="submit" name="submit" class="btn btn-primary" >Submit</button>
+				<label for="hint">You will be redirected to the payment page</label>
+			</div>
+		</div>
+	
+
+</form>
+</body>
+
+</html>
