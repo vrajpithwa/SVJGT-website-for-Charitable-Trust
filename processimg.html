@@ -5,12 +5,12 @@
     <meta charset="utf-8">
 </head>
 <body>
-<form action="img.php" method="post">
+<form action="img.php" method="post" enctype="multipart/form-data">
 	
 		<h3>Donate</h3>
 		<div class="row gy-3">
 			<!-- Amount Input -->
-			<div class="col-md-6">
+			<div class="col-md-6">	
 				<label for="amount" class="form-label">Amount<span style="color: red">*</span></label>
 				<input type="text" class="form-control" id="amount" name="field8" >
 			</div>
@@ -65,8 +65,7 @@
 			<div class="mb-3">
 				
 				<br>Attach Aadhar/Pan card</br>
-				<input type="file" class="form-control" aria-label="file example" name="image" >
-				<div class="invalid-feedback">Example invalid form file feedback</div>
+				<input type="file" name="image" accept="image/*">
 			</div>
 			<!-- Agree to Terms and Conditions -->
 			<div class="col-12">
@@ -79,7 +78,7 @@
 			</div>
 			<!-- Submit Button -->
 			<div class="col-12">
-				<button type="submit" name="submit" class="btn btn-primary" >Submit</button>
+				<input type="submit" name="submit" class="btn btn-primary" value="Generate Image" >Submit</input>
 				<label for="hint">You will be redirected to the payment page</label>
 			</div>
 		</div>
