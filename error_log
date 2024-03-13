@@ -94,3 +94,1273 @@ Stack trace:
 [12-Apr-2023 11:14:15 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/submit.php on line 10
 [12-Apr-2023 11:27:27 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/submit.php on line 10
 [12-Apr-2023 11:31:10 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/submit.php on line 10
+[18-Oct-2023 11:25:55 UTC] PHP Warning:  imagecreatefromjpeg(./slip.jpg): failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 16
+[18-Oct-2023 11:25:55 UTC] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 33
+[18-Oct-2023 11:25:55 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:25:55 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:25:55 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:25:55 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:25:55 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:25:55 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:25:55 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 46
+[18-Oct-2023 11:25:55 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 49
+[18-Oct-2023 11:25:56 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:25:56 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:25:56 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:25:56 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:25:56 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagecreatefromjpeg(./slip.jpg): failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 16
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 33
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 46
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 49
+[18-Oct-2023 11:25:56 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:25:56 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:25:56 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:25:56 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:25:56 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagecreatefromjpeg(./slip.jpg): failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 16
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 33
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagettftext() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 46
+[18-Oct-2023 11:25:56 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/o9fteldqpto7/public_html/img.php on line 49
+[18-Oct-2023 11:26:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:26:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:26:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:26:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:26:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:26:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:26:51 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:26:51 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:26:51 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:26:51 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:26:51 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:26:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:26:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:26:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:26:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:26:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:26:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:26:52 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:26:52 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:26:52 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:26:52 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:26:52 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:26:52 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:26:52 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:26:52 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:26:52 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:26:52 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:26:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:27:02 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:27:02 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:27:02 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:27:02 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:27:02 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:27:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:27:03 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:27:03 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:27:03 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:27:03 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:27:03 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:27:03 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:27:03 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:27:03 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:27:03 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:27:03 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:27:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:27:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:27:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:27:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:27:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:27:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:27:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:27:17 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:27:17 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:27:17 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:27:17 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:27:17 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:27:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:27:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:27:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:27:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:27:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:27:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:27:19 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:27:19 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:27:19 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:27:19 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:27:19 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:27:19 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:27:19 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:27:19 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:27:19 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:27:19 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:27:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:28:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:28:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:28:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:28:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:28:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:28:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:29:50 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:29:50 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:29:50 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:29:50 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:29:50 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:29:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:29:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:29:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:29:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:29:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:29:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:30:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:30:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:30:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:30:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:30:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:30:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:30:04 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:30:04 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:30:04 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:30:04 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:30:04 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:30:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:30:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:30:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:30:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:30:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:30:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:30:05 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:30:05 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:30:05 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:30:05 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:30:05 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:30:05 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:30:05 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:30:05 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:30:05 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:30:05 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:30:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:30:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:30:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:30:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:30:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:30:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:30:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:30:18 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:30:18 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:30:18 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:30:18 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:30:18 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:30:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:30:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:30:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:30:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:30:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:30:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:30:20 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:30:20 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:30:20 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:30:20 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:30:20 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:30:20 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:30:20 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:30:20 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:30:20 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:30:20 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:30:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:30:45 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:30:45 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:30:45 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:30:45 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:30:45 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:30:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:30:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:30:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:30:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:30:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:30:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:31:15 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:31:15 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:31:15 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:31:15 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:31:15 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:31:15 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:31:15 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:31:15 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:31:15 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:31:15 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:31:15 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:31:22 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:31:22 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:31:22 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:31:22 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:31:22 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:31:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:31:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:31:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:31:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:31:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:31:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:31:38 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:31:38 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:31:38 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:31:38 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:31:38 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:31:38 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:31:38 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:31:38 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:31:38 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:31:38 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:31:38 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:31:39 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:31:39 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:31:39 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:31:39 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:31:39 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:31:39 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:31:39 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:31:39 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:31:39 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:31:39 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:31:39 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:31:42 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:31:42 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:31:42 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:31:42 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:31:42 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:31:42 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:31:42 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:31:42 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:31:42 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:31:42 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:31:42 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:31:53 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:31:53 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:31:53 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:31:53 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:31:53 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:31:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:31:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:31:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:31:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:31:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:31:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:31:56 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:31:56 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:31:56 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:31:56 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:31:56 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:31:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:31:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:31:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:31:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:31:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:31:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:32:03 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:32:03 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:32:03 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:32:03 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:32:03 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:32:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:32:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:32:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:32:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:32:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:32:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:32:05 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:32:05 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 6
+[18-Oct-2023 11:32:05 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 9
+[18-Oct-2023 11:32:05 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:32:05 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:32:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 36
+[18-Oct-2023 11:32:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:32:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:32:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:32:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:32:05 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:32:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:32:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:32:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:32:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:32:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:32:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:32:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:32:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:32:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:32:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:32:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:32:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:34:26 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:34:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:42:52 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:42:52 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:42:52 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:42:52 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:42:52 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:42:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:42:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:42:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:42:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:42:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:42:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:42:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:42:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:42:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:42:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:42:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:42:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:42:54 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:42:54 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:42:54 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:42:54 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:42:54 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:42:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:42:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:42:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:42:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:42:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:42:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:42:55 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:42:55 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:42:55 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:42:55 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:42:55 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:42:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:42:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:42:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:42:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:42:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:42:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:42:56 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:42:56 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:42:56 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:42:56 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:42:56 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:42:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:42:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:42:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:42:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:42:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:42:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:43:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:43:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:43:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:43:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:43:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:43:03 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:43:04 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:43:04 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:43:04 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:43:04 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:43:04 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:43:04 UTC] PHP Notice:  Undefined index: field1 in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:43:04 UTC] PHP Notice:  Undefined index: field8 in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:43:04 UTC] PHP Notice:  Undefined index: field12 in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:43:04 UTC] PHP Notice:  Undefined index: field4 in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:43:04 UTC] PHP Notice:  Undefined index: field5 in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:43:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:44:09 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:44:09 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:44:09 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:44:09 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:44:09 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:44:09 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:44:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:44:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 37
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 39
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 11:44:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 11:48:32 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:48:32 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:48:32 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:48:32 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:48:32 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:48:35 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:49:04 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:49:11 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:49:11 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:49:11 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:49:11 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:49:11 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 11:49:13 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 11:49:13 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 11:49:13 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 11:49:13 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 11:49:13 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 18:25:34 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 18:26:12 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 18:26:12 UTC] PHP Warning:  Undefined array key "field8" in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 18:26:12 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 10
+[18-Oct-2023 18:26:12 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 11
+[18-Oct-2023 18:26:12 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 12
+[18-Oct-2023 18:28:07 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:28:07 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:28:09 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:28:09 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:28:09 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:28:09 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:28:11 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:28:11 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:29:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: imagettftext() expects at least 8 arguments, 7 given in /home/o9fteldqpto7/public_html/img.php:40
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(40): imagettftext()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:29:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: imagettftext() expects at least 8 arguments, 7 given in /home/o9fteldqpto7/public_html/img.php:40
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(40): imagettftext()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:29:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: imagettftext() expects at least 8 arguments, 7 given in /home/o9fteldqpto7/public_html/img.php:40
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(40): imagettftext()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:31:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: imagettftext() expects at least 8 arguments, 7 given in /home/o9fteldqpto7/public_html/img.php:40
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(40): imagettftext()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:31:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: imagettftext() expects at least 8 arguments, 7 given in /home/o9fteldqpto7/public_html/img.php:40
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(40): imagettftext()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:31:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: imagettftext() expects at least 8 arguments, 7 given in /home/o9fteldqpto7/public_html/img.php:40
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(40): imagettftext()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:31:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: imagettftext() expects at least 8 arguments, 7 given in /home/o9fteldqpto7/public_html/img.php:40
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(40): imagettftext()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:31:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: imagettftext() expects at least 8 arguments, 7 given in /home/o9fteldqpto7/public_html/img.php:40
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(40): imagettftext()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:33:21 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 40
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 41
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 42
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 43
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  Undefined variable $phone_no in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 44
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  Undefined variable $fontFile in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  Undefined variable $city in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:35:45 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 45
+[18-Oct-2023 18:36:35 UTC] PHP Warning:  Undefined array key "field12" in /home/o9fteldqpto7/public_html/img.php on line 13
+[18-Oct-2023 18:36:35 UTC] PHP Warning:  Undefined array key "field4" in /home/o9fteldqpto7/public_html/img.php on line 14
+[18-Oct-2023 18:36:35 UTC] PHP Warning:  Undefined array key "field5" in /home/o9fteldqpto7/public_html/img.php on line 15
+[18-Oct-2023 18:38:27 UTC] PHP Warning:  Undefined array key "field1" in /home/o9fteldqpto7/public_html/img.php on line 5
+[18-Oct-2023 18:39:11 UTC] PHP Warning:  Undefined variable $name in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 18:39:30 UTC] PHP Warning:  Undefined variable $name in /home/o9fteldqpto7/public_html/img.php on line 7
+[18-Oct-2023 18:39:30 UTC] PHP Warning:  Undefined variable $name in /home/o9fteldqpto7/public_html/img.php on line 41
+[22-Oct-2023 08:10:17 UTC] PHP Warning:  imagecreatefromjpeg(assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 32
+[22-Oct-2023 08:10:17 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:47
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(47): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 47
+[22-Oct-2023 08:10:22 UTC] PHP Warning:  imagecreatefromjpeg(assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 32
+[22-Oct-2023 08:10:22 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:47
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(47): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 47
+[22-Oct-2023 08:10:42 UTC] PHP Warning:  imagecreatefromjpeg(assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 32
+[22-Oct-2023 08:10:42 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:47
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(47): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 47
+[22-Oct-2023 08:11:22 UTC] PHP Warning:  imagecreatefromjpeg(assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 32
+[22-Oct-2023 08:11:22 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:47
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(47): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 47
+[22-Oct-2023 08:14:14 UTC] PHP Warning:  imagecreatefromjpeg(assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 32
+[22-Oct-2023 08:14:14 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:47
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(47): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 47
+[22-Oct-2023 08:14:34 UTC] PHP Warning:  imagecreatefromjpeg(assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 32
+[22-Oct-2023 08:14:34 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:47
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(47): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 47
+[22-Oct-2023 08:15:10 UTC] PHP Warning:  imagecreatefromjpeg(assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 32
+[22-Oct-2023 08:15:10 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:47
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(47): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 47
+[05-Feb-2024 13:43:04 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 17
+[05-Feb-2024 13:43:04 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpQJ9cPi&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 17
+[05-Feb-2024 13:43:04 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:22
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(22): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 22
+[05-Feb-2024 13:45:28 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 17
+[05-Feb-2024 13:45:28 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpSRWOXe&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 17
+[05-Feb-2024 13:45:28 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:22
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(22): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 22
+[05-Feb-2024 13:45:47 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 17
+[05-Feb-2024 13:45:47 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpwnalO1&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 17
+[05-Feb-2024 13:45:47 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:22
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(22): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 22
+[05-Feb-2024 16:30:28 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 17
+[05-Feb-2024 16:30:28 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/php5IzZQ4&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 17
+[05-Feb-2024 16:30:28 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:22
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(22): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 22
+[05-Feb-2024 16:36:40 UTC] PHP Warning:  imagecreatefromjpeg(assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 33
+[05-Feb-2024 16:36:40 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:48
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(48): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 13:36:19 UTC] PHP Warning:  require_once(/home/o9fteldqpto7/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/dbconnect.php on line 3
+[07-Feb-2024 13:36:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o9fteldqpto7/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o9fteldqpto7/public_html/dbconnect.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 3
+[07-Feb-2024 13:36:28 UTC] PHP Warning:  require_once(/home/o9fteldqpto7/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/dbconnect.php on line 3
+[07-Feb-2024 13:36:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o9fteldqpto7/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o9fteldqpto7/public_html/dbconnect.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 3
+[07-Feb-2024 13:36:29 UTC] PHP Warning:  require_once(/home/o9fteldqpto7/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/dbconnect.php on line 3
+[07-Feb-2024 13:36:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o9fteldqpto7/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o9fteldqpto7/public_html/dbconnect.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 3
+[07-Feb-2024 13:36:59 UTC] PHP Warning:  require_once(/home/o9fteldqpto7/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/dbconnect.php on line 3
+[07-Feb-2024 13:36:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o9fteldqpto7/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o9fteldqpto7/public_html/dbconnect.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 3
+[07-Feb-2024 13:43:18 UTC] PHP Warning:  require_once(/home/o9fteldqpto7/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/dbconnect.php on line 3
+[07-Feb-2024 13:43:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o9fteldqpto7/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o9fteldqpto7/public_html/dbconnect.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 3
+[07-Feb-2024 13:43:47 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/o9fteldqpto7/public_html/dbconnect.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 6
+[07-Feb-2024 13:49:50 UTC] PHP Warning:  require_once(/home/o9fteldqpto7/public_html): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/dbconnect.php on line 4
+[07-Feb-2024 13:49:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o9fteldqpto7/public_html/dbconnect.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 4
+[07-Feb-2024 13:50:03 UTC] PHP Warning:  require_once(/home/o9fteldqpto7/public_html): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/dbconnect.php on line 4
+[07-Feb-2024 13:50:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o9fteldqpto7/public_html/dbconnect.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 4
+[07-Feb-2024 13:50:04 UTC] PHP Warning:  require_once(/home/o9fteldqpto7/public_html): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/dbconnect.php on line 4
+[07-Feb-2024 13:50:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o9fteldqpto7/public_html/dbconnect.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 4
+[07-Feb-2024 13:51:34 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv\Dotenv" not found in /home/o9fteldqpto7/public_html/dbconnect.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 9
+[07-Feb-2024 13:51:46 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv\Dotenv" not found in /home/o9fteldqpto7/public_html/dbconnect.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 9
+[07-Feb-2024 13:51:47 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv\Dotenv" not found in /home/o9fteldqpto7/public_html/dbconnect.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 9
+[07-Feb-2024 13:52:09 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv\Dotenv" not found in /home/o9fteldqpto7/public_html/dbconnect.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 9
+[07-Feb-2024 13:52:11 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv\Dotenv" not found in /home/o9fteldqpto7/public_html/dbconnect.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 9
+[07-Feb-2024 13:52:11 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv\Dotenv" not found in /home/o9fteldqpto7/public_html/dbconnect.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 9
+[07-Feb-2024 13:52:11 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv\Dotenv" not found in /home/o9fteldqpto7/public_html/dbconnect.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 9
+[07-Feb-2024 13:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv\Dotenv" not found in /home/o9fteldqpto7/public_html/dbconnect.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 9
+[07-Feb-2024 13:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv\Dotenv" not found in /home/o9fteldqpto7/public_html/dbconnect.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o9fteldqpto7/public_html/dbconnect.php on line 9
+[07-Feb-2024 14:42:20 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/o9fteldqpto7/public_html/img.php on line 18
+[07-Feb-2024 14:42:20 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpygBXw6&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 18
+[07-Feb-2024 14:42:20 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:23
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(23): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 23
+[07-Feb-2024 14:42:54 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:42:54 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/php8W0Phw&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:42:54 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 14:43:45 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:43:45 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpod5IZB&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:43:45 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 14:44:12 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:44:12 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpILPeMI&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:44:12 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 14:44:39 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:44:39 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpC4W1WQ&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:44:39 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 14:45:07 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:45:07 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpkwnXZZ&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:45:07 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 14:45:31 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:45:31 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpvR7TG0&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:45:31 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 14:45:35 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:45:35 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpQHnOIb&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 14:45:35 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 16:19:13 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 16:19:13 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/php4onyoK&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 16:19:13 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 16:19:26 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 16:19:26 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpVTp1Ah&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 16:19:26 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 16:19:31 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 16:19:31 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpBNzqcw&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 16:19:31 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 16:21:13 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 16:21:13 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;/tmp/phpYHJ8gJ&quot; is not a valid JPEG file in /home/o9fteldqpto7/public_html/img.php on line 19
+[07-Feb-2024 16:21:13 UTC] PHP Fatal error:  Uncaught TypeError: imagescale(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:24
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(24): imagescale()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 24
+[07-Feb-2024 16:21:39 UTC] PHP Warning:  imagecreatefromjpeg(/assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 37
+[07-Feb-2024 16:21:39 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:52
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(52): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 52
+[07-Feb-2024 16:22:20 UTC] PHP Warning:  imagecreatefromjpeg(/assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 37
+[07-Feb-2024 16:22:20 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:52
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(52): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 52
+[07-Feb-2024 16:22:23 UTC] PHP Warning:  imagecreatefromjpeg(/assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 37
+[07-Feb-2024 16:22:23 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:52
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(52): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 52
+[07-Feb-2024 16:23:01 UTC] PHP Warning:  imagecreatefromjpeg(/assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 37
+[07-Feb-2024 16:23:01 UTC] PHP Fatal error:  Uncaught TypeError: imagejpeg(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:39
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(39): imagejpeg()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 39
+[07-Feb-2024 16:23:34 UTC] PHP Warning:  imagecreatefromjpeg(/assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 37
+[07-Feb-2024 16:23:34 UTC] PHP Fatal error:  Uncaught TypeError: imagejpeg(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:39
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(39): imagejpeg()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 39
+[07-Feb-2024 16:26:11 UTC] PHP Warning:  imagecreatefromjpeg(/assets/img/pohach.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 37
+[07-Feb-2024 16:26:11 UTC] PHP Fatal error:  Uncaught TypeError: imagejpeg(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:72
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(72): imagejpeg()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 72
+[07-Feb-2024 17:36:31 UTC] PHP Warning:  imagecreatefromjpeg(assets/img/new_slip.jpg): Failed to open stream: No such file or directory in /home/o9fteldqpto7/public_html/img.php on line 13
+[07-Feb-2024 17:36:31 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home/o9fteldqpto7/public_html/img.php:16
+Stack trace:
+#0 /home/o9fteldqpto7/public_html/img.php(16): imagecolorallocate()
+#1 {main}
+  thrown in /home/o9fteldqpto7/public_html/img.php on line 16
+[07-Feb-2024 17:47:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[07-Feb-2024 17:47:25 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/o9fteldqpto7/public_html/img.php on line 38
+[07-Feb-2024 17:52:11 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 17:53:00 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 40
+[07-Feb-2024 17:53:00 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 43
+[07-Feb-2024 17:53:40 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 40
+[07-Feb-2024 17:53:40 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 17:53:40 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 43
+[07-Feb-2024 17:54:41 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 40
+[07-Feb-2024 17:54:41 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 17:54:41 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 43
+[07-Feb-2024 17:56:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 17:56:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 17:56:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 17:56:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:56:34 UTC] PHP Warning:  Undefined variable $phone in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:56:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 17:56:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 17:56:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 17:56:43 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 17:56:43 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 17:56:43 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 17:56:43 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:56:43 UTC] PHP Warning:  Undefined variable $phone in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:56:43 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 17:56:43 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 17:56:43 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 17:58:03 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 17:58:03 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 17:58:03 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 17:58:03 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:58:03 UTC] PHP Warning:  Undefined variable $phone in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:58:03 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 17:58:03 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 17:58:03 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 17:58:05 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 17:58:05 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 17:58:05 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 17:58:05 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:58:05 UTC] PHP Warning:  Undefined variable $phone in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:58:05 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 17:58:05 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 17:58:05 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 17:58:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 17:58:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 17:58:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 17:58:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:58:44 UTC] PHP Warning:  Undefined variable $phone in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:58:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 17:58:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 17:58:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 17:59:06 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 17:59:06 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 17:59:06 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 17:59:06 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:59:06 UTC] PHP Warning:  Undefined variable $phone in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:59:06 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 17:59:06 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 17:59:06 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 17:59:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 17:59:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 17:59:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 17:59:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 17:59:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 17:59:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 17:59:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 18:18:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 18:18:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 18:18:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 18:18:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 18:18:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 18:18:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 18:18:44 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 18:19:09 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 18:19:09 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 18:19:09 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 18:19:09 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 18:19:09 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 18:19:09 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 18:19:09 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 18:43:45 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 18:43:45 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 18:43:45 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 18:43:45 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 18:43:45 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 18:43:45 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 18:43:45 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 19:10:47 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 19:10:47 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 19:10:47 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 19:10:47 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 19:10:47 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 19:10:47 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 19:10:47 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 19:37:01 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 19:37:01 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 19:37:01 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 19:37:01 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 19:37:01 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 19:37:01 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 19:37:01 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 19:37:57 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 19:37:57 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 19:37:57 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 19:37:57 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 19:37:57 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 19:37:57 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 19:37:57 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 19:39:54 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 19:39:54 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 19:39:54 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 19:39:54 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 19:39:54 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 19:39:54 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 19:39:54 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 19:42:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 19:42:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 19:42:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 19:42:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 19:42:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 19:42:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 19:42:34 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 19:43:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 19:43:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 19:43:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 19:43:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 19:43:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 19:43:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 19:43:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[07-Feb-2024 19:49:56 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[07-Feb-2024 19:49:56 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[07-Feb-2024 19:49:56 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[07-Feb-2024 19:49:56 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[07-Feb-2024 19:49:56 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[07-Feb-2024 19:49:56 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[07-Feb-2024 19:49:56 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[11-Feb-2024 06:55:47 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/o9fteldqpto7/public_html/ccavResponseHandler.php on line 22
+[11-Feb-2024 07:36:49 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home/o9fteldqpto7/public_html/ccavResponseHandler.php on line 45
+[11-Feb-2024 07:37:19 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home/o9fteldqpto7/public_html/ccavResponseHandler.php on line 45
+[11-Feb-2024 07:38:40 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home/o9fteldqpto7/public_html/ccavResponseHandler.php on line 45
+[12-Feb-2024 06:53:28 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home/o9fteldqpto7/public_html/ccavResponseHandler.php on line 46
+[15-Feb-2024 07:19:48 UTC] PHP Warning:  Undefined array key "decrypted_values" in /home/o9fteldqpto7/public_html/addDataToDb.php on line 4
+[15-Feb-2024 07:19:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/o9fteldqpto7/public_html/addDataToDb.php on line 13
+[16-Feb-2024 05:21:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[16-Feb-2024 05:21:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[16-Feb-2024 05:21:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[16-Feb-2024 05:21:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[16-Feb-2024 05:21:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[16-Feb-2024 05:21:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[16-Feb-2024 05:21:32 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[16-Feb-2024 05:21:41 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 41
+[16-Feb-2024 05:21:41 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 42
+[16-Feb-2024 05:21:41 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 44
+[16-Feb-2024 05:21:41 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 45
+[16-Feb-2024 05:21:41 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 46
+[16-Feb-2024 05:21:41 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 47
+[16-Feb-2024 05:21:41 UTC] PHP Warning:  Undefined variable $Black in /home/o9fteldqpto7/public_html/img.php on line 48
+[19-Feb-2024 09:49:02 UTC] PHP Fatal error:  Cannot redeclare encrypt() (previously declared in /home/o9fteldqpto7/public_html/ccavResponseHandler.php:153) in /home/o9fteldqpto7/public_html/Crypto.php on line 11
+[19-Feb-2024 10:00:24 UTC] PHP Fatal error:  Cannot redeclare encrypt() (previously declared in /home/o9fteldqpto7/public_html/ccavResponseHandler.php:153) in /home/o9fteldqpto7/public_html/Crypto.php on line 5
+[19-Feb-2024 17:20:22 UTC] PHP Fatal error:  Cannot redeclare encrypt() (previously declared in /home/o9fteldqpto7/public_html/ccavResponseHandler.php:149) in /home/o9fteldqpto7/public_html/Crypto.php on line 11

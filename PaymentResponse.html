@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>SVJGT</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header d-flex align-items-center">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <img src="assets/img/favicon.png" alt=""> 
+        <h1 style="font-size: larger;">Shree Vachchhrajdada Jivdaya Gauseva Trust<span>.</span></h1>
+      </a>
+
+      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+      <!--<nav id="navbar" class="navbar">-->
+      <!--  <ul>-->
+      <!--    <li><a href="index.html" >Home</a></li>-->
+      <!--    <li><a href="about.html" >About</a></li>-->
+      <!--     <li><a href="history.html">History</a></li>-->
+          
+          <!-- <li><a href="projects.html">Projects</a></li>
+      <!--    <li><a href="blog.html">Blog</a></li> -->-->
+      <!--    <li class="dropdown"><a href="Donation.html" class="active" ><span>Donation</span> <i-->
+      <!--          class="bi bi-chevron-down dropdown-indicator"></i></a>-->
+      <!--      <ul>-->
+             
+    
+      <!--      </ul>-->
+      <!--    </li>-->
+      <!--    <li><a href="contact.html" >Contact</a></li>-->
+      <!--  </ul>-->
+      <!--</nav>-->
+      <!-- .navbar -->
+
+    </div>
+  </header>
+  <!-- End Header -->
+
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/1684052669943.jpg');">
+      <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
+
+        <h2>Donation Success</h2>
+       
+      </div>
+    </div><!-- End Breadcrumbs -->
+
+    <!-- ======= About Section ======= -->
+    <section  style="background-image: url('assets/img/bgd.png'); background-size: cover; background-position: center;background-size: 89%;">
+      
+       <div class="container" style="width: 50%; color: rgb(0, 0, 0); background-color: rgba(255, 255, 255, 0.56); padding: 30px; border-radius: 20px; margin-top: -50px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
+    <!-- Your content here -->
+
+
+            <!--<form action="img.php" method="post" enctype="multipart/form-data">-->
+           <p>Succeessful Payment  with OrderId : </p>
+           
+    <form method="post" name="customerData" action="ccavRequestHandler.php">
+        <font size="4" color="blue"><b>Integration Kit</b></font>
+        <div class="row gy-3">
+           
+            <!-- Amount Input -->
+            <div class="col-md-6">
+                <label for="amount" class="form-label">Amount</label>
+                <input type="text" class="form-control" id="amount" name="amount" value="1.00">
+            </div>
+          
+            <div class="col-md-6">
+                            <label for="donationType" class="form-label">Donation Type<span style="color: red">*</span></label>
+                            <select class="form-select" id="donationType" name="donoationType" >
+                                <option value="General Donation">General Donation</option>
+                                <option value="Ghass Charo bhandol">Ghass Charo bhandol</option>
+                                <option value="Annshetra bhandol">Annshetra bhandol</option>
+                                <option value="Bandkaam bhandol">Bandkaam bhandol</option>
+                                <option value="Khatar Upaj">Khatar Upaj</option>
+                                <option value="Mahiti Prakashan">Mahiti Prakashan</option>
+                                <option value="Chakla Chann">Chakla Chann</option>
+                            </select>
+                        </div>
+            <!-- Language Input -->
+
+            <!-- Billing Name Input -->
+            <div class="col-md-6">
+                <label for="billing_name" class="form-label">Name<span style="color: red">*</span></label>
+                <input type="text" class="form-control" id="billing_name" name="billing_name" value="Charli">
+            </div>
+            <!-- Billing Tel Input -->
+            <div class="col-md-6">
+                <label for="billing_tel" class="form-label">Mobile no.<span style="color: red">*</span></label>
+                <input type="text" class="form-control" id="billing_tel" name="billing_tel" value="9876543210">
+            </div>
+            <!-- Billing Address Input -->
+            <div class="col-md-12">
+                <label for="billing_address" class="form-label">Billing Address<span style="color: red">*</span></label>
+                <textarea type="text" class="form-control" id="billing_address" name="billing_address" value="Room no 1101, near Railway station Ambad"></textarea>
+            </div>
+            <!-- Billing City Input -->
+            <div class="col-md-6">
+                <label for="billing_city" class="form-label">City<span style="color: red">*</span></label>
+                <input type="text" class="form-control" id="billing_city" name="billing_city" value="Indore">
+            </div>
+            <!-- Billing State Input -->
+            <div class="col-md-6">
+                <label for="billing_state" class="form-label">State<span style="color: red">*</span></label>
+                <input type="text" class="form-control" id="billing_state" name="billing_state" value="MP">
+            </div>
+            <!-- Billing Zip Input -->
+            <div class="col-md-6">
+                <label for="billing_zip" class="form-label">Zip<span style="color: red">*</span></label>
+                <input type="text" class="form-control" id="billing_zip" name="billing_zip" value="425001">
+            </div>
+            <!-- Billing Country Input -->
+            <div class="col-md-6">
+                <label for="billing_country" class="form-label">Country<span style="color: red">*</span></label>
+                <input type="text" class="form-control" id="billing_country" name="billing_country" value="India">
+            </div>
+             <div class="col-md-6">
+                            <label for="inputMessage" class="form-label">Aadhar card/Pan card<span style="color: red">*</span></label>
+                            <input type="text" class="form-control" aria-label="file example" name="field7" placeholder="Enter your Aadhar_no/Pan_no" >
+                        </div>
+                        <!-- Aadhar/Pan Card Input -->
+                        <div class="col-mb-6">
+                            
+                            <br>Attach Aadhar/Pan card</br>
+                            <input type="file" name="image" accept="image/*">
+                        </div>
+                        <!-- Agree to Terms and Conditions -->
+                        <div class="col-12">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="gridCheck" onchange="enableSubmit()" >
+                                <label class="form-check-label" for="gridCheck">
+                                    <a href="termsandconditions.html" style="color: blue">Agree to Terms and Conditions<span style="color: red">*</span></a>
+                                </label>
+                            </div>
+                        </div>
+            <!-- Submit Button -->
+            <div class="col-12">
+                <input type="submit" value="Donate" class="btn btn-primary">
+            </div>
+        </div>
+    </form>
+
+            </div>
+
+
+    </section>
+    <!-- End About Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+</main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+<!-- ======= Footer ======= -->
+  <footer id="footer" class="footer">
+
+    <div class="footer-content position-relative">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6">
+            <div class="footer-info">
+              <h3>Shree Vachchhrajdada Jivdaya Gauseva Trust</h3>
+              <p>
+                <br>
+                <a href="https://goo.gl/maps/yupP8eSjyyd2JecV6">Zinzuwada, Ta. Patdi, Dist. Surendranagar, Gujarat-382755. INDIA</a><br><br>
+                <strong>Phone:</strong> +91-99797 51954<br>
+                <strong>Email:</strong> shrivachhrajdadajivdayagauseva@gmail.com<br>
+              </p>
+              <div class="social-links d-flex mt-3">
+                <!-- <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a> -->
+                <!-- <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a> -->
+                <a href="https://instagram.com/vachchharajbet_official?igshid=YmMyMTA2M2Y%3D" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
+                <a href="https://www.youtube.com/channel/UCeaYkdbbl1nEtqzMx0GUh-w" class="d-flex align-items-center justify-content-center"><i class="bi bi-youtube"></i></a>
+              </div>
+            </div>
+          </div><!-- End footer info column-->
+
+          <div class="col-lg-2 col-md-3 footer-links">
+           <!-- footer open space  -->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26658.77585101602!2d71.43290480241687!3d23.413849219115306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395bb88b528431d9%3A0xf1afdaa6cc9589a5!2sVachchhraj%20Bet%2C%20Gujarat%20370145!5e1!3m2!1sen!2sin!4v1696102765081!5m2!1sen!2sin" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div> 
+
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-legal text-center position-relative">
+      <div class="container">
+        <div class="copyright">
+          &copy; Copyright <strong><span>Shree Vachchhrajdada Jivdaya Gauseva Trust</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+         Designed by Vraj Pithva Distributed by Ketan Pithva
+        </div>
+      </div>
+    </div>
+
+  </footer>
+  <!-- End Footer -->
+  <!-- End Footer -->
+
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
