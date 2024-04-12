@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View All Images</title>
+</head>
+
+<body>
+    <h1>View All Images</h1>
+    <div id="imageContainer">
+        <!-- Images will be dynamically loaded here -->
+    </div>
+    <script>
+        // Function to fetch images from the PHP script and display them
+        function loadImages() {
+            fetch('view.php')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('imageContainer').innerHTML = data;
+                })
+                .catch(error => console.error('Error:', error));
+        }
+
+        // Call the loadImages function when the page loads
+        window.onload = loadImages;
+    </script>
+</body>
+
+</html>

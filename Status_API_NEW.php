@@ -15,7 +15,7 @@ $final_data = 'enc_request='.$encrypted_data.'&access_code='.$access_code.'&comm
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, "https://apitest.ccavenue.com/apis/servlet/DoWebTrans");
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-curl_setopt($ch, CURLOPT_VERBOSE, 1);vraj ph
+curl_setopt($ch, CURLOPT_VERBOSE, 1);
 curl_setopt($ch, CURLOPT_HTTPHEADER,'Content-Type: application/json') ;
 curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 curl_setopt($ch, CURLOPT_POST, 1);
