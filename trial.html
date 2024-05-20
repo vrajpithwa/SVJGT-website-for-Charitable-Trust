@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+      
+    <form id="myForm" action="destination_page.php" method="POST">
+        <div class="col-md-6">
+            <select class="form-select country" id="billing_country" name="billing_country" aria-label="Default select example" onchange="loadStates()" required>
+                <option selected>Select Country</option>
+            </select>
+        </div>
+        <div class="col-md-6">
+            <select class="form-select state" id="billing_state" name="billing_state" aria-label="Default select example" onchange="loadCities()" required>
+                <option selected>Select State</option>
+            </select>
+        </div>
+        <div class="col-md-6">
+            <select class="form-select city" id="billing_city" name="billing_city" aria-label="Default select example" required>
+                <option selected>Select City</option>
+            </select>
+        </div>
+        <div class="col-md-6">
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+        <script>
+            var config = {
+                cUrl: 'https://api.countrystatecity.in/v1/countries',
+                ckey: 'NHhvOEcyWk50N2Vna3VFTE00bFp3MjFKR0ZEOUhkZlg4RTk1MlJlaA=='
+            }
+
+            var countrySelect = document.querySelector('.country'),
+                stateSelect = document.querySelector('.state'),
+                citySelect = document.querySelector('.city')
+
+            function loadCountries() {
+                let apiEndPoint = config.cUrl
+
+                fetch(apiEndPoint, {headers: {"X-CSCAPI-KEY": config.ckey}})
+                .then(Response => Response.json())
+                .then(data => {
+                    data.forEach(country => {
+                        const option = document.createElement('option')
+                        option.value = country.iso2
+                        option.textContent = country.name 
+                        countrySelect.appendChild(option)
+                    })
+                })
+                .catch(error => console.error('Error loading countries:', error))
+
+                stateSelect.disabled = true
+                citySelect.disabled = true
+                stateSelect.style.pointerEvents = 'none'
+                citySelect.style.pointerEvents = 'none'
+            }
+
+            function loadStates() {
+                stateSelect.disabled = false
+                citySelect.disabled = true
+                stateSelect.style.pointerEvents = 'auto'
+                citySelect.style.pointerEvents = 'none'
+
+                const selectedCountryCode = countrySelect.value
+                stateSelect.innerHTML = '<option value="">Select State</option>' // for clearing the existing states
+                citySelect.innerHTML = '<option value="">Select City</option>' // Clear existing city options
+
+                fetch(`${config.cUrl}/${selectedCountryCode}/states`, {headers: {"X-CSCAPI-KEY": config.ckey}})
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(state => {
+                        const option = document.createElement('option')
+                        option.value = state.iso2
+                        option.textContent = state.name 
+                        stateSelect.appendChild(option)
+                    })
+                })
+                .catch(error => console.error('Error loading countries:', error))
+            }
+
+            stateSelect.addEventListener('change', loadCities); // Add this line
+
+            function loadCities() {
+                citySelect.disabled = false
+                citySelect.style.pointerEvents = 'auto'
+
+                const selectedCountryCode = countrySelect.value
+                const selectedStateCode = stateSelect.value
+
+                citySelect.innerHTML = '<option value="">Select City</option>' // Clear existing city options
+
+                fetch(`${config.cUrl}/${selectedCountryCode}/states/${selectedStateCode}/cities`, {headers: {"X-CSCAPI-KEY": config.ckey}})
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(city => {
+                        const option = document.createElement('option')
+                        option.value = city.iso2
+                        option.textContent = city.name 
+                        citySelect.appendChild(option)
+                    })
+                })
+            }
+
+            window.onload = loadCountries
+
+            // Event listener for form submission
+            document.getElementById('myForm').addEventListener('submit', function (e) {
+                e.preventDefault(); // Prevent the default form submission
+
+                // Get the selected values
+                var selectedCountry = countrySelect.value;
+                var selectedState = stateSelect.value;
+                var selectedCity = citySelect.value;
+
+                // Redirect to another page with the selected values as URL parameters
+                window.location.href = 'destination_page.php?country=' + selectedCountry + '&state=' + selectedState + '&city=' + selectedCity;
+            });
+        </script>
+</body>
+</html>

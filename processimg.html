@@ -50,28 +50,41 @@
 				<label for="inputAddress" class="form-label">Address<span style="color: red">*</span></label>
 				<textarea type="text" class="form-control" id="inputAddress" name="field3" ></textarea>
 			</div>
-			<!-- City Input -->
+			
 			<div class="col-md-6">
-				<label for="inputCity" class="form-label">City<span style="color: red">*</span></label>
-				<input type="text" class="form-control" id="inputCity" name="field4" >
+				<select class=" form-select country" id="billing_country" name="billing_country"
+					aria-label="Default select example" onchange="loadStates()">
+					<option selected>Select Country</option>
+				</select>
 			</div>
-			<!-- State Input -->
-			<div class="col-md-4">
-				<label for="state" class="form-label">State<span style="color: red">*</span></label>
-				<input type="text" class="form-control" id="state" name="field5" >
+			<div class="col-md-6">
+				<select class=" form-select state" id="billing_state" name="billing_state"
+					aria-label="Default select example" onchange="loadCities()">
+					<option selected>Select State</option>
+				</select>
+			</div>
+			<div class="col-md-6">
+				<select class="  form-select city" id="billing_city" name="billing_city"
+					aria-label="Default select example">
+					<option selected>Select City</option>
+				</select>
 			</div>
 			<!-- Zip Input -->
 			<div class="col-md-4">
 				<label for="inputZip" class="form-label">Pincode<span style="color: red">*</span></label>
 				<input type="text" class="form-control" id="inputZip" name="field6" >
 			</div>
-			<div class="col-md-6">
+			<!-- <div class="col-md-6">
 				<label for="inputMessage" class="form-label">Aadhar card/Pan card<span style="color: red">*</span></label>
 				<input type="text" class="form-control" aria-label="file example" name="field7" placeholder="Enter your Aadhar_no/Pan_no" >
+			</div> -->
+			<div class="col-md-7">
+				<label for="cardInput">Enter Aadhar Card Number or PAN Card Number:</label>
+				<input type="text" id="cardInput" name="field7" oninput="validateCardNumber()" required>
+				<small id="inputHint"></small>
 			</div>
 			<!-- Aadhar/Pan Card Input -->
 			<div class="mb-3">
-				
 				<br>Attach Aadhar/Pan card</br>
 				<input type="file" name="image" accept="image/*">
 			</div>
@@ -105,6 +118,119 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script>
+	function validateCardNumber() {
+            var inputField = document.getElementById("cardInput");
+            var inputHint = document.getElementById("inputHint");
+            // var panRegex = /^([A-Z]){5}([0-9]){4}([A-Z]){1}$/;
+            var panRegex = /^([A-Za-z]){5}([0-9]){4}([A-Za-z]){1}$/i;
+
+            var aadharRegex = /^\d{4}\d{4}\d{4}$/;
+
+            if (inputField.value.match(panRegex)) {
+                inputHint.textContent = "PAN card number is valid.";
+                inputHint.style.color = "green";
+            } else if (inputField.value.match(aadharRegex)) {
+                inputHint.textContent = "Aadhaar card number is valid.";
+                inputHint.style.color = "green";
+            } else {
+                inputHint.textContent = "Please enter a valid PAN card or Aadhaar card number.";
+                inputHint.style.color = "red";
+                return false;
+            }
+            return true;
+        }
+
+
+
+        var config = {
+  apiUrl: 'https://api.countrystatecity.in/v1',
+  apiKey: 'NHhvOEcyWk50N2Vna3VFTE00bFp3MjFKR0ZEOUhkZlg4RTk1MlJlaA==' // Replace with your actual API key
+};
+
+// HTML elements
+var countrySelect = document.getElementById('billing_country');
+var stateSelect = document.getElementById('billing_state');
+var citySelect = document.getElementById('billing_city');
+var selectedCountryInput = document.getElementById('selectedCountry');
+var selectedStateInput = document.getElementById('selectedState');
+var selectedCityInput = document.getElementById('selectedCity');
+
+// Fetch countries and populate country dropdown
+function loadCountries() {
+  fetch(`${config.apiUrl}/countries`, {
+    headers: { 'X-CSCAPI-KEY': config.apiKey }
+  })
+  .then(response => response.json())
+  .then(data => {
+    data.forEach(country => {
+      var option = document.createElement('option');
+      option.value = country.iso2;
+      option.textContent = country.name;
+      countrySelect.appendChild(option);
+    });
+  })
+  .catch(error => console.error('Error loading countries:', error));
+}
+
+// Load states based on selected country and populate state dropdown
+function loadStates() {
+  var selectedCountryCode = countrySelect.value;
+  stateSelect.innerHTML = '<option value="">Select State</option>'; // Clear existing options
+
+  fetch(`${config.apiUrl}/countries/${selectedCountryCode}/states`, {
+    headers: { 'X-CSCAPI-KEY': config.apiKey }
+  })
+  .then(response => response.json())
+  .then(data => {
+    data.forEach(state => {
+      var option = document.createElement('option');
+      option.value = state.iso2;
+      option.textContent = state.name;
+      stateSelect.appendChild(option);
+    });
+  })
+  .catch(error => console.error('Error loading states:', error));
+}
+
+// Load cities based on selected state and populate city dropdown
+function loadCities() {
+  var selectedCountryCode = countrySelect.value;
+  var selectedStateCode = stateSelect.value;
+  citySelect.innerHTML = '<option value="">Select City</option>'; // Clear existing options
+
+  fetch(`${config.apiUrl}/countries/${selectedCountryCode}/states/${selectedStateCode}/cities`, {
+    headers: { 'X-CSCAPI-KEY': config.apiKey }
+  })
+  .then(response => response.json())
+  .then(data => {
+    data.forEach(city => {
+      var option = document.createElement('option');
+      option.value = city.iso2;
+      option.textContent = city.name;
+      citySelect.appendChild(option);
+    });
+  })
+  .catch(error => console.error('Error loading cities:', error));
+}
+
+// Event listeners for dropdown changes
+countrySelect.addEventListener('change', function() {
+  loadStates();
+  selectedCountryInput.value = this.value; // Update hidden input with selected country
+});
+
+stateSelect.addEventListener('change', function() {
+  loadCities();
+  selectedStateInput.value = this.value; // Update hidden input with selected state
+});
+
+// Load countries on page load
+window.onload = function() {
+  loadCountries();
+};
+
+  </script>
 </body>
 
 </html>
